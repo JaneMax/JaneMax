@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JaneMax
-- 👀 I’m interested in development and improment
+- 👀 I’m interested in development and improvment
 - 🌱 I’m currently learning life
 - 💞️ I’m looking to collaborate on programming
 - 📫 How to reach me you know 
